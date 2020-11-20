@@ -19,7 +19,7 @@ setup(
     scripts=['bin/stashcli'],
     url='https://github.com/purinda/stash-cli',
     license='LICENSE.md',
-    description='Make pull-requests to Stash repos from the CLI, and notify the ream via Hipchat.',
+    description='Make pull-requests to Stash repos from the CLI, and notify the team via Hipchat.',
     setup_requires=[
         "flake8"
     ],
